@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Cosmos
+        PlaYer</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_cosmos_player">Cosmos
+        PlaYer</string>
+
+</resources>
